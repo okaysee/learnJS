@@ -36,13 +36,16 @@ Newsletters
 Tools:
 + [JSFiddle](http://jsfiddle.net/)
 + [JSNice](http://www.jsnice.org/)
++ [JS Bin](http://jsbin.com/)
 
+Reference Docs
++ [DevDocs](http://devdocs.io/)
 
 Sample Syllabuses:
 + [JavaScript is Sexy](http://javascriptissexy.com/how-to-learn-javascript-properly/)
++ [GitHub: Advanced JavaScript Syllabus](https://github.com/advanced-js/syllabus)
 
 Other Learning Ideas:
-+ [GitHub: Advanced JavaScript Syllabus](https://github.com/advanced-js/syllabus)
 + [Superhero.js](http://superherojs.com/)
 + [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 + [Mozilla Dev Learn Javascript](https://developer.mozilla.org/en-US/Learn/JavaScript)
@@ -57,4 +60,4 @@ People to watch:
 + [Ilya Grigorik](https://twitter.com/igrigorik)
 
 
-Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus) for the links and help!
+Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus), [Paul](https://twitter.com/paul_asjes) for the links and help!
