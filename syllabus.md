@@ -45,4 +45,4 @@ Other Learning Ideas:
 + [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 + [Mozilla Dev Learn Javascript](https://developer.mozilla.org/en-US/Learn/JavaScript)
 
-Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus) for the links!
+Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus) for the links and help!
