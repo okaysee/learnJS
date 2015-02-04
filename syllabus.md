@@ -1,4 +1,4 @@
-A (working) syllabus for learning JavaScrip
+A (working) syllabus for learning JavaScript
 ============================================
 
 Doing:
@@ -45,4 +45,4 @@ Other Learning Ideas:
 + [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 + [Mozilla Dev Learn Javascript](https://developer.mozilla.org/en-US/Learn/JavaScript)
 
-Thanks to [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus)
+Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus) for the links!
