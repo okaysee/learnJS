@@ -16,6 +16,7 @@ Learning
 
 Books
 + [Beginning JavaScript](http://www.amazon.com/gp/product/0470525932/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470525932&linkCode=as2&tag=interhaptic-20&linkId=DMQK6I7WC6V34B77)
++ [Secrets of a JavaScript Ninja](http://www.manning.com/resig/) 
 
 Readings
 + [JavaScript is Sexy: JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
@@ -34,6 +35,7 @@ Newsletters
 
 Tools:
 + [JSFiddle](http://jsfiddle.net/)
++ [JSNice](http://www.jsnice.org/)
 
 
 Sample Syllabuses:
@@ -44,5 +46,15 @@ Other Learning Ideas:
 + [Superhero.js](http://superherojs.com/)
 + [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 + [Mozilla Dev Learn Javascript](https://developer.mozilla.org/en-US/Learn/JavaScript)
++ [TodoMVC](http://todomvc.com/)
++ [AirBnB JS Style Guide](https://github.com/airbnb/javascript)
++ [HTML 5 Writeups for upcoming features](http://www.html5rocks.com/)
+
+People to watch:
++ [Everyone on this list](https://developers.google.com/web/fundamentals/resources/contributors/index)
++ [Addy Osmani](https://twitter.com/addyosmani)
++ [Paul Irish](https://twitter.com/paul_irish)
++ [Ilya Grigorik](https://twitter.com/igrigorik)
+
 
 Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus) for the links and help!
