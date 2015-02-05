@@ -13,6 +13,8 @@ Learning
 + [Codecademy: jQuery Track](http://www.codecademy.com/en/tracks/jquery)
 + [Codecademy: Make a Website](http://www.codecademy.com/skills/make-a-website)
 + [Codecademy: Make an Interactive Website](http://www.codecademy.com/skills/make-an-interactive-website)
++ [Codeschool: JavaScript](https://www.codeschool.com/paths/javascript)
++ [Treehouse: FE Web Development](http://teamtreehouse.com/tracks/front-end-web-development)
 
 Books
 + [Beginning JavaScript](http://www.amazon.com/gp/product/0470525932/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470525932&linkCode=as2&tag=interhaptic-20&linkId=DMQK6I7WC6V34B77)
@@ -58,6 +60,9 @@ People to watch:
 + [Addy Osmani](https://twitter.com/addyosmani)
 + [Paul Irish](https://twitter.com/paul_irish)
 + [Ilya Grigorik](https://twitter.com/igrigorik)
+
+Coaching/Therapy :)
++ (http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
 
 Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus), [Paul](https://twitter.com/paul_asjes) for the links and help!
