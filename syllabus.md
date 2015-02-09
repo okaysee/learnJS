@@ -2,11 +2,18 @@ A (working) syllabus for learning JavaScript
 ============================================
 
 Doing:
-+ [Codecademy: JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
++ [Codecademy: Make a Website](http://www.codecademy.com/skills/make-a-website)
+
 
 Done:
++ [Codecademy: JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
++ [Codecademy: jQuery Track](http://www.codecademy.com/en/tracks/jquery)
 
 To Do:
++ [Codecademy: Make an Interactive Website](http://www.codecademy.com/skills/make-an-interactive-website)
++ [JavaScript is Sexy: JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
++ [Codecademy: Make an Interactive Website](http://www.codecademy.com/skills/make-an-interactive-website)
+
 
 Learning
 + [Codecademy: JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
