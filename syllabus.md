@@ -18,7 +18,8 @@ Learning
 
 Books
 + [Beginning JavaScript](http://www.amazon.com/gp/product/0470525932/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470525932&linkCode=as2&tag=interhaptic-20&linkId=DMQK6I7WC6V34B77)
-+ [Secrets of a JavaScript Ninja](http://www.manning.com/resig/) 
++ [Secrets of a JavaScript Ninja](http://www.manning.com/resig/)
++ [Eloquent Javascript](http://eloquentjavascript.net/)
 
 Readings
 + [JavaScript is Sexy: JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
@@ -63,6 +64,9 @@ People to watch:
 
 Coaching/Therapy :)
 + (http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+
+HTML/CSS References
++ [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 
 Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus), [Paul](https://twitter.com/paul_asjes) for the links and help!
