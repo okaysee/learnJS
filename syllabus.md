@@ -2,9 +2,10 @@ A (working) syllabus for learning JavaScript
 ============================================
 
 Doing:
-+ [Codecademy: JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
 
 Done:
++ [Codecademy: JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
++ [Codecademy: jQuery Track](http://www.codecademy.com/en/tracks/jquery)
 
 To Do:
 
@@ -18,7 +19,7 @@ Learning
 
 Books
 + [Beginning JavaScript](http://www.amazon.com/gp/product/0470525932/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470525932&linkCode=as2&tag=interhaptic-20&linkId=DMQK6I7WC6V34B77)
-+ [Secrets of a JavaScript Ninja](http://www.manning.com/resig/) 
++ [Secrets of a JavaScript Ninja](http://www.manning.com/resig/)
 
 Readings
 + [JavaScript is Sexy: JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
