@@ -1,19 +1,6 @@
 A (working) syllabus for learning JavaScript
 ============================================
 
-Doing:
-+ [Codecademy: Make an Interactive Website](http://www.codecademy.com/skills/make-an-interactive-website)
-
-Done:
-+ [Codecademy: JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
-+ [Codecademy: jQuery Track](http://www.codecademy.com/en/tracks/jquery)
-+ [Codecademy: Make a Website](http://www.codecademy.com/skills/make-a-website)
-
-To Do:
-+ [JavaScript is Sexy: JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
-+ [Codecademy: Make an Interactive Website](http://www.codecademy.com/skills/make-an-interactive-website)
-+ [Eloquent Javascript: Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
-
 
 Learning
 + [Codecademy: JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
@@ -27,6 +14,7 @@ Books
 + [Beginning JavaScript](http://www.amazon.com/gp/product/0470525932/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470525932&linkCode=as2&tag=interhaptic-20&linkId=DMQK6I7WC6V34B77)
 + [Secrets of a JavaScript Ninja](http://www.manning.com/resig/)
 + [Eloquent Javascript](http://eloquentjavascript.net/)
+  + [Eloquent Javascript Code Sandbox](http://eloquentjavascript.net/code/)
 
 Readings
 + [JavaScript is Sexy: JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
@@ -62,6 +50,7 @@ Other Learning Ideas:
 + [TodoMVC](http://todomvc.com/)
 + [AirBnB JS Style Guide](https://github.com/airbnb/javascript)
 + [HTML 5 Writeups for upcoming features](http://www.html5rocks.com/)
++ [webdesignrepo Learning Section](http://www.webdesignrepo.com/#learning)
 
 People to watch:
 + [Everyone on this list](https://developers.google.com/web/fundamentals/resources/contributors/index)
@@ -76,4 +65,4 @@ HTML/CSS References
 + [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 
-Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus), [Paul](https://twitter.com/paul_asjes) for the links and help!
+Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus), [Paul](https://twitter.com/paul_asjes),[Sebas](https://twitter.com/sebasribas) for the links and help!
