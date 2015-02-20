@@ -1,8 +1,12 @@
+####2/19/2015
++ [Eloquent JavaScript: Chapter 4](http://eloquentjavascript.net/04_data.html)
+> Redo this chapter though
+
 ####2/18/2015
-+ [Eloquent Javascript: Chapter 3](http://eloquentjavascript.net/03_functions.html)
++ [Eloquent JavaScript: Chapter 3](http://eloquentjavascript.net/03_functions.html)
 
 ####2/10/2015
-+ [Eloquent Javascript: Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
++ [Eloquent JavaScript: Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
 
 
 ####Some time before 2/10/2015
