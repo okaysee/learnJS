@@ -64,5 +64,11 @@ Coaching/Therapy :)
 HTML/CSS References
 + [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
+Exercises
++ [CoderByte challenges](http://coderbyte.com/CodingArea/Challenges/)
+
+Other Tutorials
++ [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
+
 
 Thanks [Lenny](https://twitter.com/rememberlenny), [Matyus](https://twitter.com/mmatyus), [Paul](https://twitter.com/paul_asjes),[Sebas](https://twitter.com/sebasribas) for the links and help!
