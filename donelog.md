@@ -1,3 +1,7 @@
+####3/4/2015
++ [Eloquent JS: Chapter 6](http://eloquentjavascript.net/06_object.html)
+
+
 ####2/26/2015
 + [Eloquent JS: Chapter 5](http://eloquentjavascript.net/05_higher_order.html)
 > Redo this one too!
