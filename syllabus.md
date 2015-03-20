@@ -15,6 +15,7 @@ Books
 + [Secrets of a JavaScript Ninja](http://www.manning.com/resig/)
 + [Eloquent Javascript](http://eloquentjavascript.net/)
   + [Eloquent Javascript Code Sandbox](http://eloquentjavascript.net/code/)
+  + [Eloquent Javascript Annotated] (https://docs.google.com/document/d/1aa2-HtUglQrAps31s4LdTPVsiFb1BxhyjZolxeezzcI/preview?sle=true)
 
 Readings
 + [JavaScript is Sexy: JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
